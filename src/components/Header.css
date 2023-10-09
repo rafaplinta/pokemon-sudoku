@@ -1,0 +1,18 @@
+.Header {
+  background-color: red; 
+  padding: 20px; 
+  position: fixed;
+  top: 0; 
+  left: 0; 
+  width: 100%; 
+  color: #fff; 
+  padding: 10px 0; 
+  z-index: 999; 
+}
+
+.Header img {
+  max-width: 150px; 
+  height: auto; 
+  display: block; 
+  margin: 0 auto; 
+}

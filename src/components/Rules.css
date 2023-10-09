@@ -1,0 +1,31 @@
+
+.rules-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  max-width: 380px;
+  margin: 0 auto;
+  margin-top: 30px;
+  background-color: #f2f2f2;
+}
+
+.rules-container img {
+  max-width: 70%; 
+  height: auto; 
+  margin-bottom: 3px; 
+}
+
+.rules-container p {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.rules-container body img{
+  max-width: 20%; 
+  height: auto; 
+  margin-bottom: 3px;
+}
